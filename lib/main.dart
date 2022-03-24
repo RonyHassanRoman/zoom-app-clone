@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:video_calling_app/screens/login_screen.dart';
+import 'package:video_calling_app/screens/auth/login_screen.dart';
 import 'package:video_calling_app/utils/colors.dart';
 
 void main() {
